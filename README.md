@@ -60,7 +60,12 @@ In meeting the minimum viable product (MVP) specifications listed below, your pr
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. What is the DOM?
+The DOM stands for document object model and it is a programing interface for the web document and we can use it when we interact with web pages. For example we can use it to do certain things like add, delete or change content to the HTML document. We can do all this as our web page is still being viewed. 
+
 2. What is an event?
+Events are trigers or actions that happenes anytime a user exicutes anything inside of our browser or on a website. For example anytime we click, scroll, tap on our keyboard all these actions triggers an event. 
+
 3. What is an event listener?
+An event listiner is 
 4. Why would we convert a NodeList into an Array?
 5. What is a component?
