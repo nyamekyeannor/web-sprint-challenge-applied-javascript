@@ -63,9 +63,13 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 The DOM stands for document object model and it is a programing interface for the web document and we can use it when we interact with web pages. For example we can use it to do certain things like add, delete or change content to the HTML document. We can do all this as our web page is still being viewed. 
 
 2. What is an event?
-Events are trigers or actions that happenes anytime a user exicutes anything inside of our browser or on a website. For example anytime we click, scroll, tap on our keyboard all these actions triggers an event. 
+Events are triggers or actions that happens anytime a user execute anything inside of our browser or on a website. For example anytime we click, scroll, tap on our keyboard all these actions triggers an event. 
 
 3. What is an event listener?
-An event listiner is 
+An event listener waits to receive a command ran by a user in-order to execute that particular command. 
+
 4. Why would we convert a NodeList into an Array?
+We need to this so we can use functions from JS ES6.
+
 5. What is a component?
+Components are multiple parts or bits of code that is brought together so we can make use of it later. They work similarly to JS functions with returning our HTML. There are also two different kinds of components with is function components and class components. 
